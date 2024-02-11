@@ -411,7 +411,7 @@ section .title::after {
 
 .project_image {
   border-radius: 8px;
-  border: 4px solid #ffbc00;
+  border: 1px solid #ffbc00;
   height: 200px;
   width: 20%;
   margin: 35px 20px;
@@ -421,6 +421,7 @@ section .title::after {
   display: block;
   width: 100%;
   height: 100%;
+  border-radius: 8px;
 }
 
 .project_image img:hover {
